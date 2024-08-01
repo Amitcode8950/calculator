@@ -1,0 +1,41 @@
+Basic Calculator
+
+This project is a simple calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations: addition, subtraction, multiplication, and division.
+
+## Files
+
+1. index.html - The HTML file containing the structure of the calculator.
+2. styles.css - The CSS file containing the styles for the calculator.
+3. script.js - The JavaScript file containing the functionality for the calculator.
+
+## Setup Instructions
+
+1. Ensure you have the following files in the same directory:
+   - index.html
+   - styles.css
+   - script.js
+
+2. Open the index.html file in a web browser.
+
+## Usage
+
+- The calculator has a display screen that shows the current input and results.
+- Buttons for digits (0-9) and decimal point (.) to input numbers.
+- Operator buttons for addition (+), subtraction (-), multiplication (*), and division (/).
+- A clear button (C) to reset the calculator.
+- An equals button (=) to perform the calculation based on the current input.
+
+## Example
+
+To perform a calculation, follow these steps:
+
+1. Click the buttons to input a number.
+2. Click an operator button (+, -, *, /).
+3. Click another number.
+4. Click the equals button (=) to see the result.
+5. Use the clear button (C) to reset and start a new calculation.
+
+
+## Contact
+
+For any questions or suggestions, feel free to contact the developer at amitkumar8950764059@gmail.com.
